@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "axios_scanner_2"
+name = "axios-exposure-scanner"
 version = "0.1.0"
 dependencies = [
  "rayon",
